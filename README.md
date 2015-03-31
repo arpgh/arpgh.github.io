@@ -1,3 +1,3 @@
 # arpgh.github.io
 
-more coming ...
+public website via GH
